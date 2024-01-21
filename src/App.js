@@ -20,8 +20,20 @@ export default function App() {
             Svitlana Tovkaniuk
           </a>{" "}
           and is{" "}
-          <a href="https://github.com/svitlana-tov/react-weather-application-final">
+          <a
+            href="https://github.com/svitlana-tov/react-weather-application"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on GitHub
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://fancy-rugelach-fd6854.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
